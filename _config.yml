@@ -11,7 +11,7 @@ email: lovesnow@mail.ustc.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
   BIVLab Academic Webpage.
 baseurl: ""
-url: ""
+url: "https://orannue.github.io/web.github.io"
 
 include:
   - .htaccess
